@@ -1,5 +1,5 @@
 # Wiki-Articles
-Java Desktop Application about Articles.
+Java SE Desktop Application that deals with Articles, where any user can (Add, Edit, Delete) his articles.
 
 Admin's functions:
 1) Add New Manager
